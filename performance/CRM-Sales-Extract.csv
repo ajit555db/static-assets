@@ -1,0 +1,198 @@
+﻿Customer,Sales Stage,Status,Opportunity ID,Opportunity Desc,Opportunity Value (USD units),Opportunity Profit %,Sales Rep,Sales Rep Name,Country,Products,Stage Creation Date,Won Date
+Zoombeat,5,Won,456331,Hystrix indica,"$2,920,312",65%,Empl 1,Chev Penman,United States,Sultanas,4-3-2020,9-9-2020
+Yodel,4,,411382,Marmota monax,"$925,500",23%,Empl 2,Jere Cottee,United States,Galliano,5-30-2021,9-23-2021
+Dabjam,3,,446625,Varanus salvator,"$1,289,400",33%,Empl 3,Demetria Freen,United States,Tea Leaves - Oolong,4-19-2021,7-3-2021
+Yodel,5,Lost,433873,Epicrates cenchria maurus,"$2,488,621",11%,Empl 4,Cortney De Wolfe,United States,Tea - Decaf Lipton,2-22-2020,1-13-2021
+Skalith,5,Lost,468029,Ara ararauna,"$3,336,629",25%,Empl 5,Kenton Pollendine,United States,Beets - Golden,4-22-2020,4-17-2021
+Voomm,2,,440244,unavailable,"$3,722,302",22%,Empl 6,Amby Impleton,United States,Rice - Basmati,5-10-2021,5-11-2021
+Linkbuzz,3,,491968,Papio cynocephalus,"$4,803,645",74%,Empl 7,Davidson Sterry,United States,Cabbage Roll,3-15-2020,11-28-2020
+Skimia,5,Won,481815,Plectopterus gambensis,"$4,195,216",2%,Empl 8,Cindie Pitman,United States,Strawberries,4-19-2020,6-14-2021
+Zoomzone,2,,490600,Neophoca cinerea,"$117,602",6%,Empl 9,Garold Shellcross,United States,"Beans - Kidney, Canned",5-22-2020,9-27-2021
+Shuffledrive,5,Won,477126,Nectarinia chalybea,"$4,235,743",59%,Empl 10,Morty La Grange,United States,"Cookies - Oreo, 4 Pack",10-26-2020,11-16-2020
+Omba,2,,489250,Cochlearius cochlearius,"$2,973,317",10%,Empl 1,Chev Penman,United States,Potatoes - Pei 10 Oz,12-1-2020,7-27-2021
+Myworks,3,,447360,Ctenophorus ornatus,"$2,658,017",1%,Empl 2,Jere Cottee,United States,Beer - True North Strong Ale,3-8-2020,9-23-2020
+Voolith,4,,490612,Felis silvestris lybica,"$2,907,915",48%,Empl 3,Demetria Freen,United States,Mushroom - Portebello,10-27-2020,3-28-2021
+Brainverse,2,,432376,Platalea leucordia,"$1,579,996",54%,Empl 4,Cortney De Wolfe,United States,Bread - Raisin Walnut Pull,7-22-2020,2-24-2021
+Livetube,5,Won,498283,Antechinus flavipes,"$4,373,572",14%,Empl 5,Kenton Pollendine,United States,Beer - Muskoka Cream Ale,8-26-2020,6-19-2021
+Mynte,3,,463089,Raphicerus campestris,"$4,952,634",60%,Empl 6,Amby Impleton,United States,Absolut Citron,3-20-2021,7-10-2021
+Ntag,1,,415674,Alcelaphus buselaphus caama,"$4,172,164",19%,Empl 7,Davidson Sterry,United States,Syrup - Monin - Granny Smith,9-22-2020,7-19-2021
+Podcat,1,,477212,Neotoma sp.,"$2,876,464",25%,Empl 8,Cindie Pitman,United States,V8 Pet,2-17-2021,11-6-2021
+Trilia,2,,404775,Gyps bengalensis,"$1,442,498",61%,Empl 9,Garold Shellcross,United States,Butter - Salted,11-17-2020,8-9-2021
+Brainlounge,4,,463207,Laniaurius atrococcineus,"$3,437,535",64%,Empl 10,Morty La Grange,United States,"Pasta - Lasagne, Fresh",4-1-2021,5-5-2021
+Zoomzone,5,Lost,494778,Eumetopias jubatus,"$3,080,351",4%,Empl 1,Chev Penman,United States,"Pasta - Elbows, Macaroni, Dry",1-10-2021,8-28-2021
+Linklinks,1,,456626,Varanus komodensis,"$1,933,702",40%,Empl 2,Jere Cottee,United States,Sambuca - Ramazzotti,9-7-2021,9-11-2021
+Tagopia,5,Won,423072,Francolinus leucoscepus,"$1,285,326",38%,Empl 3,Demetria Freen,United States,Syrup - Chocolate,6-27-2020,4-10-2021
+Voonix,1,,454713,Macropus giganteus,"$1,167,315",22%,Empl 4,Cortney De Wolfe,United States,"Veal - Insides, Grains",12-21-2020,8-21-2021
+Skinder,5,Won,401912,Gabianus pacificus,"$2,752,468",3%,Empl 5,Kenton Pollendine,United States,Huck Towels White,9-14-2020,12-20-2020
+Voonte,3,,411752,unavailable,"$2,099,534",47%,Empl 6,Amby Impleton,United States,Tomato - Tricolor Cherry,10-15-2020,7-26-2021
+Flashspan,1,,472484,Cynictis penicillata,"$2,752,135",6%,Empl 7,Davidson Sterry,United States,"Vermacelli - Sprinkles, Assorted",12-29-2020,6-15-2021
+Skiptube,2,,479110,Dicrostonyx groenlandicus,"$1,409,515",29%,Empl 8,Cindie Pitman,United States,Garbage Bag - Clear,2-2-2021,10-20-2021
+BlogXS,3,,495803,Bassariscus astutus,"$2,249,090",34%,Empl 9,Garold Shellcross,United States,Banana Turning,3-24-2020,8-24-2020
+Babbleopia,3,,485878,Echimys chrysurus,"$1,930,676",58%,Empl 10,Morty La Grange,United States,V8 - Berry Blend,2-17-2020,10-17-2021
+Twitternation,2,,424986,Loxodonta africana,"$2,841,275",11%,Empl 1,Chev Penman,United States,Container - Hngd Cll Blk 7x7x3,8-27-2020,7-14-2021
+Mynte,2,,427487,Funambulus pennati,"$239,719",23%,Empl 2,Jere Cottee,United States,"Beef - Kindney, Whole",3-11-2021,7-24-2021
+Jaxworks,3,,489597,Varanus sp.,"$480,848",42%,Empl 3,Demetria Freen,United States,Bread - Raisin Walnut Oval,8-5-2020,2-26-2021
+Yakijo,2,,487578,Meles meles,"$3,087,873",55%,Empl 4,Cortney De Wolfe,United States,Wine - Vovray Sec Domaine Huet,4-26-2020,10-7-2020
+Meedoo,5,Won,435177,Fulica cristata,"$4,088,927",65%,Empl 5,Kenton Pollendine,United States,Water - San Pellegrino,4-28-2020,7-25-2020
+Yodoo,5,Won,446217,Coluber constrictor,"$3,430,246",42%,Empl 6,Amby Impleton,United States,Water - Spring 1.5lit,2-15-2020,3-19-2021
+Abatz,4,,402338,Phoca vitulina,"$4,926,595",35%,Empl 7,Davidson Sterry,United States,Rice - Sushi,11-28-2020,3-27-2021
+Chatterpoint,5,Lost,466945,Porphyrio porphyrio,"$2,719,428",35%,Empl 8,Cindie Pitman,United States,Beets,3-31-2020,12-11-2020
+Mymm,2,,469927,Actophilornis africanus,"$2,613,685",30%,Empl 9,Garold Shellcross,United States,"Liqueur Banana, Ramazzotti",1-21-2020,8-20-2020
+Brainverse,3,,463718,Papio cynocephalus,"$457,033",37%,Empl 10,Morty La Grange,United States,"Split Peas - Yellow, Dry",10-14-2020,10-18-2021
+Oyondu,3,,484694,Paradoxurus hermaphroditus,"$2,296,295",69%,Empl 1,Chev Penman,United States,Pie Shell - 9,3-5-2020,8-12-2020
+Devbug,3,,488721,Macropus rufus,"$4,975,748",40%,Empl 2,Jere Cottee,United States,Cardamon Ground,5-9-2020,5-23-2020
+Babblestorm,2,,498149,Parus atricapillus,"$1,627,942",66%,Empl 3,Demetria Freen,United States,Pail With Metal Handle 16l White,5-31-2020,9-15-2021
+Youtags,4,,451567,Columba livia,"$2,539,906",75%,Empl 4,Cortney De Wolfe,United States,"Tortillas - Flour, 10",2-4-2020,5-21-2021
+Skidoo,2,,409245,Mazama americana,"$3,894,171",58%,Empl 5,Kenton Pollendine,United States,Ham - Proscuitto,8-22-2020,6-9-2021
+Voomm,5,Won,472613,Haliaetus vocifer,"$3,187,169",20%,Empl 6,Amby Impleton,United States,Bread Base - Gold Formel,4-27-2020,12-8-2020
+Linklinks,3,,433791,Corvus brachyrhynchos,"$316,285",61%,Empl 7,Davidson Sterry,United States,Alize Gold Passion,3-8-2021,9-13-2021
+Mita,5,Lost,471254,Iguana iguana,"$4,545,645",50%,Empl 8,Cindie Pitman,United States,Brandy Apricot,3-27-2020,8-30-2021
+Devshare,4,,424784,Deroptyus accipitrinus,"$4,735,053",63%,Empl 9,Garold Shellcross,United States,"Split Peas - Yellow, Dry",5-15-2020,12-24-2020
+Roombo,2,,442476,Dipodomys deserti,"$1,886,069",66%,Empl 10,Morty La Grange,United States,Bag - Clear 7 Lb,1-26-2020,1-5-2021
+Viva,2,,487006,Canis lupus baileyi,"$3,252,761",74%,Empl 1,Chev Penman,United States,"Coke - Diet, 355 Ml",1-8-2020,4-15-2021
+Kimia,3,,468289,Cebus albifrons,"$2,702,715",72%,Empl 2,Jere Cottee,United States,Soy Protein,3-16-2020,8-8-2020
+Thoughtstorm,5,Lost,447054,Francolinus swainsonii,"$2,345,672",43%,Empl 3,Demetria Freen,United States,Meldea Green Tea Liquor,4-28-2020,11-1-2020
+Ozu,4,,400069,Phalaropus lobatus,"$3,259,801",49%,Empl 4,Cortney De Wolfe,United States,"Split Peas - Yellow, Dry",3-6-2020,8-4-2021
+Digitube,5,Won,483651,Phoca vitulina,"$4,052,667",60%,Empl 5,Kenton Pollendine,United States,"Shrimp - 21/25, Peel And Deviened",3-11-2020,9-12-2021
+Linklinks,2,,468061,Zonotrichia capensis,"$441,387",65%,Empl 6,Amby Impleton,United States,Sauce - Hp,7-28-2020,9-6-2020
+Brainbox,3,,479532,Anas punctata,"$1,108,803",34%,Empl 7,Davidson Sterry,United States,Ocean Spray - Ruby Red,8-26-2020,6-15-2021
+Oyoloo,2,,465948,Ardea golieth,"$447,311",25%,Empl 8,Cindie Pitman,United States,Coffee Beans - Chocolate,8-10-2020,1-6-2021
+Jabbercube,4,,488853,Coendou prehensilis,"$4,618,736",63%,Empl 9,Garold Shellcross,United States,Wine - Chablis J Moreau Et Fils,3-16-2021,10-20-2021
+Mydeo,3,,463646,Phalacrocorax niger,"$2,771,012",26%,Empl 10,Morty La Grange,United States,Grand Marnier,7-16-2020,9-18-2020
+Topiczoom,5,Won,400566,Capreolus capreolus,"$1,688,315",6%,Empl 1,Chev Penman,United States,Egg - Salad Premix,5-9-2020,10-6-2020
+Topicshots,1,,438421,Francolinus leucoscepus,"$2,893,358",10%,Empl 2,Jere Cottee,United States,Beef - Eye Of Round,8-29-2020,11-18-2020
+Lazz,5,Won,491271,Bos taurus,"$4,425,024",69%,Empl 3,Demetria Freen,United States,Wiberg Super Cure,10-4-2020,3-18-2021
+Omba,3,,469172,Stercorarius longicausus,"$4,041,248",17%,Empl 4,Cortney De Wolfe,United States,Cream - 18%,1-30-2020,7-8-2020
+Zoonder,5,Won,415900,Papio cynocephalus,"$3,446,443",7%,Empl 5,Kenton Pollendine,United States,Poppy Seed,2-17-2021,3-8-2021
+Buzzster,2,,457858,Haematopus ater,"$4,209,440",72%,Empl 6,Amby Impleton,United States,Oil - Grapeseed Oil,4-8-2021,5-12-2021
+Skippad,1,,422570,Pterocles gutturalis,"$4,051,928",58%,Empl 7,Davidson Sterry,United States,Water Chestnut - Canned,11-10-2020,11-19-2020
+Centidel,2,,491543,Nectarinia chalybea,"$4,779,288",18%,Empl 8,Cindie Pitman,United States,Lobster - Cooked,5-26-2020,10-19-2020
+Lajo,5,Won,499696,Zalophus californicus,"$475,874",41%,Empl 9,Garold Shellcross,United States,"Nut - Walnut, Chopped",7-28-2021,9-20-2021
+Edgetag,4,,429777,Aonyx capensis,"$451,968",24%,Empl 10,Morty La Grange,United States,Triple Sec - Mcguinness,12-3-2020,1-31-2021
+LiveZ,3,,421511,Larus fuliginosus,"$2,043,868",42%,Empl 1,Chev Penman,United States,Cumin - Ground,8-4-2020,12-30-2020
+Lazz,3,,415848,Gyps fulvus,"$877,950",0%,Empl 2,Jere Cottee,United States,Apples - Spartan,6-22-2021,10-17-2021
+Jaxspan,5,Lost,400912,Meles meles,"$4,093,689",22%,Empl 3,Demetria Freen,United States,Filling - Mince Meat,7-7-2020,10-1-2020
+Zazio,4,,493969,Lamprotornis nitens,"$1,834,359",34%,Empl 4,Cortney De Wolfe,United States,"Brownies - Two Bite, Chocolate",7-21-2020,7-27-2020
+Flashdog,5,Won,415912,Ursus maritimus,"$1,594,296",47%,Empl 5,Kenton Pollendine,United States,Sugar - Cubes,2-2-2021,8-18-2021
+Voomm,1,,446680,Arctogalidia trivirgata,"$3,663,707",28%,Empl 6,Amby Impleton,United States,Mountain Dew,3-5-2020,9-20-2021
+Buzzshare,5,Lost,444782,Bison bison,"$1,655,730",74%,Empl 7,Davidson Sterry,United States,"Pepper - Red, Finger Hot",8-3-2021,10-19-2021
+Dynabox,2,,445955,Ara chloroptera,"$3,671,849",51%,Empl 8,Cindie Pitman,United States,Pear - Prickly,2-10-2020,7-30-2021
+Jetpulse,5,Lost,491914,Limnocorax flavirostra,"$3,083,222",9%,Empl 9,Garold Shellcross,United States,Soup - Campbells Chicken,1-4-2020,2-13-2021
+Kwinu,3,,491590,Ursus maritimus,"$3,514,870",73%,Empl 10,Morty La Grange,United States,Scallops - 10/20,2-1-2020,12-27-2020
+Digitube,5,Won,418231,Pteronura brasiliensis,"$2,603,590",54%,Empl 1,Chev Penman,United States,Jack Daniels,12-12-2020,7-3-2021
+Rooxo,3,,462316,Bucorvus leadbeateri,"$1,360,595",34%,Empl 2,Jere Cottee,United States,Mix - Cocktail Ice Cream,5-22-2020,12-14-2020
+Yamia,5,Won,427762,Diomedea irrorata,"$2,099,189",6%,Empl 3,Demetria Freen,United States,Dooleys Toffee,8-5-2020,8-25-2020
+Skalith,5,Won,441016,Francolinus coqui,"$2,557,125",18%,Empl 4,Cortney De Wolfe,United States,Rabbit - Legs,5-27-2020,4-19-2021
+Yoveo,2,,473709,Macropus agilis,"$3,274,906",3%,Empl 5,Kenton Pollendine,United States,Chives - Fresh,1-29-2020,5-15-2020
+Jabbertype,2,,488641,Cracticus nigroagularis,"$2,166,467",69%,Empl 6,Amby Impleton,United States,"Liners - Banana, Paper",5-8-2021,10-12-2021
+Oba,4,,417164,unavailable,"$4,313,654",57%,Empl 7,Davidson Sterry,United States,Corn Syrup,4-2-2020,8-19-2020
+Vinte,5,Won,415164,Acridotheres tristis,"$4,665,494",13%,Empl 8,Cindie Pitman,United States,The Pop Shoppe - Lime Rickey,8-18-2020,2-14-2021
+Jazzy,5,Won,409933,Haliaeetus leucoryphus,"$1,322,768",5%,Empl 9,Garold Shellcross,United States,Magnotta - Bel Paese White,10-3-2020,11-8-2021
+Youopia,5,Won,401568,Pseudoleistes virescens,"$1,662,582",26%,Empl 10,Morty La Grange,United States,Thyme - Dried,3-17-2020,4-2-2020
+Jaxbean,5,Lost,468897,Isoodon obesulus,"$1,222,445",18%,Empl 1,Chev Penman,United States,Bowl 12 Oz - Showcase 92012,1-14-2020,1-4-2021
+Youopia,3,,405413,Anas punctata,"$1,343,769",48%,Empl 2,Jere Cottee,United States,Laundry - Bag Cloth,10-5-2020,5-8-2021
+Meevee,4,,415107,Potos flavus,"$150,096",8%,Empl 3,Demetria Freen,United States,Tobasco Sauce,9-22-2020,5-28-2021
+Fivechat,5,Lost,489470,Phascogale calura,"$2,702,833",65%,Empl 4,Cortney De Wolfe,United States,Curry Powder Madras,3-5-2021,10-4-2021
+Latz,2,,495541,Chloephaga melanoptera,"$4,408,450",49%,Empl 5,Kenton Pollendine,United States,Chocolate - Sugar Free Semi Choc,3-21-2020,11-5-2020
+Skipfire,4,,421968,Ninox superciliaris,"$271,920",43%,Empl 6,Amby Impleton,United States,Sauce - Balsamic Viniagrette,4-24-2020,4-24-2021
+Dabshots,1,,468329,Varanus albigularis,"$3,638,534",37%,Empl 7,Davidson Sterry,United States,Lamb Tenderloin Nz Fr,4-30-2020,10-26-2021
+Ooba,5,Lost,478944,Hystrix cristata,"$1,765,598",59%,Empl 8,Cindie Pitman,United States,Pepper - Red Chili,2-5-2020,10-19-2020
+Yamia,2,,437741,Mazama americana,"$4,027,403",6%,Empl 9,Garold Shellcross,United States,"Bread - Crumbs, Bulk",11-5-2020,12-2-2020
+Cogibox,5,Won,451886,Naja nivea,"$3,139,319",72%,Empl 10,Morty La Grange,United States,Appetizer - Cheese Bites,8-18-2020,4-29-2021
+Meedoo,3,,444220,Procyon cancrivorus,"$1,395,433",67%,Empl 1,Chev Penman,United States,"Nut - Almond, Blanched, Ground",7-21-2020,7-4-2021
+Livepath,3,,417231,Tockus erythrorhyncus,"$4,728,066",38%,Empl 2,Jere Cottee,United States,Longos - Chicken Curried,4-28-2020,9-6-2020
+Dabshots,1,,464748,Carduelis uropygialis,"$4,542,150",16%,Empl 3,Demetria Freen,United States,Pork - Belly Fresh,10-11-2020,12-17-2020
+Twitterbridge,5,Won,435112,Alopex lagopus,"$627,474",50%,Empl 4,Cortney De Wolfe,United States,Spice - Greek 1 Step,10-28-2020,1-31-2021
+Fivebridge,5,Won,414624,Francolinus coqui,"$3,623,402",13%,Empl 5,Kenton Pollendine,United States,Cheese Cloth,2-1-2020,4-2-2020
+Ooba,3,,499944,Casmerodius albus,"$3,903,076",44%,Empl 6,Amby Impleton,United States,Macaroons - Two Bite Choc,10-8-2021,11-11-2021
+Meetz,5,Won,477386,Uraeginthus granatina,"$3,215,522",71%,Empl 7,Davidson Sterry,United States,Sweet Pea Sprouts,7-27-2020,10-22-2020
+Realpoint,1,,412232,Lepus townsendii,"$4,329,158",31%,Empl 8,Cindie Pitman,United States,The Pop Shoppe Pinapple,6-18-2021,8-31-2021
+Blogtags,3,,489795,Bassariscus astutus,"$1,009,183",67%,Empl 9,Garold Shellcross,United States,Chocolate - Sugar Free Semi Choc,4-12-2020,8-15-2020
+Viva,5,Won,409740,Lepus arcticus,"$1,236,254",50%,Empl 10,Morty La Grange,United States,Pea - Snow,4-2-2021,6-25-2021
+Gigaclub,1,,491929,Sylvicapra grimma,"$3,688,477",49%,Empl 1,Chev Penman,United States,Beer - Original Organic Lager,10-16-2020,7-4-2021
+Ooba,4,,460014,Phalacrocorax varius,"$4,055,920",26%,Empl 2,Jere Cottee,United States,Frangelico,5-14-2020,11-17-2020
+Eazzy,5,Lost,467475,Merops sp.,"$4,180,013",43%,Empl 3,Demetria Freen,United States,Glaze - Apricot,7-29-2020,8-8-2020
+Rhyzio,2,,491282,Ursus maritimus,"$3,397,939",11%,Empl 4,Cortney De Wolfe,United States,Bagel - Ched Chs Presliced,6-6-2020,4-22-2021
+Podcat,5,Won,454080,Spilogale gracilis,"$910,920",19%,Empl 5,Kenton Pollendine,United States,"Lamb - Racks, Frenched",2-19-2020,5-15-2020
+Dynava,2,,449641,Phoeniconaias minor,"$2,130,469",69%,Empl 6,Amby Impleton,United States,"Turkey - Breast, Smoked",2-25-2020,3-19-2020
+Skyndu,5,Lost,440104,Lamprotornis superbus,"$2,585,029",17%,Empl 7,Davidson Sterry,United States,Coriander - Seed,2-2-2020,4-19-2021
+Wordify,5,Won,423949,Catharacta skua,"$1,231,615",26%,Empl 8,Cindie Pitman,United States,Scallops - In Shell,6-22-2020,9-10-2021
+Shufflebeat,1,,497353,Delphinus delphis,"$894,467",45%,Empl 9,Garold Shellcross,United States,Tea - Orange Pekoe,4-3-2020,11-10-2021
+Leenti,3,,465194,Tockus erythrorhyncus,"$2,894,196",23%,Empl 10,Morty La Grange,United States,V8 Splash Strawberry Banana,12-2-2020,1-20-2021
+Browsezoom,2,,463444,Phoca vitulina,"$1,441,025",66%,Empl 1,Chev Penman,United States,Cookies - Assorted,12-28-2020,2-22-2021
+Aibox,5,Lost,413639,Nyctereutes procyonoides,"$4,738,271",32%,Empl 2,Jere Cottee,United States,Sour Puss Sour Apple,4-25-2021,6-6-2021
+Twitterworks,3,,499782,Chauna torquata,"$2,623,744",56%,Empl 3,Demetria Freen,United States,Table Cloth 90x90 Colour,1-8-2021,4-6-2021
+Talane,1,,482645,Macropus agilis,"$809,947",50%,Empl 4,Cortney De Wolfe,United States,Cake - Dulce De Leche,1-19-2020,3-9-2021
+Devify,3,,422290,Sarkidornis melanotos,"$4,512,948",41%,Empl 5,Kenton Pollendine,United States,Gingerale - Diet - Schweppes,9-23-2021,10-10-2021
+Skinte,4,,446238,Dicrurus adsimilis,"$3,999,695",7%,Empl 6,Amby Impleton,United States,"Tuna - Canned, Flaked, Light",3-12-2020,9-29-2021
+Twitterworks,5,Lost,463213,Papilio canadensis,"$4,978,423",11%,Empl 7,Davidson Sterry,United States,Wine - Manischewitz Concord,9-16-2020,8-13-2021
+Midel,4,,460684,Antechinus flavipes,"$1,328,248",11%,Empl 8,Cindie Pitman,United States,"Pork - Back, Long Cut, Boneless",2-10-2021,8-28-2021
+Feedfish,1,,491124,Acrantophis madagascariensis,"$3,152,914",26%,Empl 9,Garold Shellcross,United States,Oil - Olive,5-8-2020,8-4-2020
+Dynazzy,3,,484320,Pycnonotus nigricans,"$1,809,874",59%,Empl 10,Morty La Grange,United States,Jolt Cola - Electric Blue,1-10-2020,11-5-2021
+Feednation,1,,490133,Terathopius ecaudatus,"$2,313,155",44%,Empl 1,Chev Penman,United States,Plasticforkblack,2-10-2021,9-16-2021
+Kwideo,3,,473502,Dasyurus maculatus,"$174,750",28%,Empl 2,Jere Cottee,United States,Dehydrated Kelp Kombo,9-7-2020,8-13-2021
+Devpulse,5,Won,460317,Geochelone elegans,"$257,141",44%,Empl 3,Demetria Freen,United States,Goulash Seasoning,12-24-2020,9-28-2021
+Aibox,3,,425453,Neophoca cinerea,"$4,802,798",73%,Empl 4,Cortney De Wolfe,United States,Cumin - Ground,5-30-2020,2-18-2021
+Dabjam,1,,444756,Neotis denhami,"$1,674,065",52%,Empl 5,Kenton Pollendine,United States,"Cheese - Havarti, Salsa",3-9-2021,4-10-2021
+Oyoloo,5,Won,495338,Mazama gouazoubira,"$1,821,403",33%,Empl 6,Amby Impleton,United States,"Pasta - Penne, Lisce, Dry",8-3-2021,10-17-2021
+Pixope,2,,457238,Loris tardigratus,"$4,793,456",9%,Empl 7,Davidson Sterry,United States,Chocolate Bar - Smarties,4-18-2021,8-6-2021
+Riffwire,3,,470323,Estrilda erythronotos,"$4,569,540",55%,Empl 8,Cindie Pitman,United States,Soup Campbells - Italian Wedding,2-8-2021,7-20-2021
+Zoomdog,2,,453253,Felis libyca,"$4,479,588",28%,Empl 9,Garold Shellcross,United States,Ham - Procutinni,9-15-2020,8-10-2021
+Skyvu,4,,439815,Bassariscus astutus,"$2,393,852",34%,Empl 10,Morty La Grange,United States,Pop - Club Soda Can,6-1-2020,9-16-2021
+Divape,5,Lost,496584,Bos taurus,"$1,121,676",72%,Empl 1,Chev Penman,United States,"Yogurt - Raspberry, 175 Gr",5-4-2020,3-3-2021
+Fliptune,2,,409069,Anas punctata,"$1,547,780",63%,Empl 2,Jere Cottee,United States,Liners - Baking Cups,5-21-2020,10-28-2020
+Yodoo,2,,468005,Pteropus rufus,"$1,184,660",28%,Empl 3,Demetria Freen,United States,"Cookies - Oreo, 4 Pack",7-11-2021,11-6-2021
+Bubbletube,3,,451215,Chauna torquata,"$650,358",34%,Empl 4,Cortney De Wolfe,United States,Pork - Kidney,12-25-2020,3-20-2021
+Jayo,5,Lost,448314,Macaca radiata,"$424,015",30%,Empl 5,Kenton Pollendine,United States,"Lid - 10,12,16 Oz",5-8-2020,11-5-2020
+Brightdog,2,,445044,Carduelis uropygialis,"$3,152,291",17%,Empl 6,Amby Impleton,United States,Wine - Red Oakridge Merlot,2-5-2021,2-13-2021
+Browsedrive,4,,494546,Egretta thula,"$1,393,892",8%,Empl 7,Davidson Sterry,United States,Lychee - Canned,5-3-2020,10-11-2020
+Dynava,5,Won,468150,Macaca nemestrina,"$4,041,453",30%,Empl 8,Cindie Pitman,United States,Lemon Balm - Fresh,12-9-2020,6-3-2021
+JumpXS,1,,446322,Globicephala melas,"$4,653,751",64%,Empl 9,Garold Shellcross,United States,"Cheese - Mozzarella, Shredded",4-30-2020,12-19-2020
+Demimbu,2,,426685,Spizaetus coronatus,"$301,440",1%,Empl 10,Morty La Grange,United States,"Veal - Inside, Choice",1-15-2020,5-3-2021
+Bubbletube,3,,458452,Caiman crocodilus,"$962,937",29%,Empl 1,Chev Penman,United States,"Peas - Pigeon, Dry",5-28-2020,2-21-2021
+Jaxnation,2,,476090,Loxodonta africana,"$2,399,106",25%,Empl 2,Jere Cottee,United States,Kellogs Cereal In A Cup,10-13-2020,11-7-2020
+Photobug,5,Won,457990,Phalacrocorax carbo,"$4,008,766",18%,Empl 3,Demetria Freen,United States,"Coffee - Beans, Whole",11-7-2020,5-4-2021
+Yamia,4,,472977,Colobus guerza,"$1,000,373",15%,Empl 4,Cortney De Wolfe,United States,Port - 74 Brights,4-17-2020,7-5-2021
+Tagchat,5,Won,439587,Phascogale calura,"$3,861,667",50%,Empl 5,Kenton Pollendine,United States,Worcestershire Sauce,7-18-2020,2-10-2021
+Jabbersphere,3,,432936,Milvus migrans,"$783,675",4%,Empl 6,Amby Impleton,United States,Brandy - Bar,1-20-2021,4-24-2021
+Eabox,5,Lost,420978,Macropus fuliginosus,"$315,434",30%,Empl 7,Davidson Sterry,United States,Bread Cranberry Foccacia,9-15-2020,2-24-2021
+Zoovu,2,,482308,Salvadora hexalepis,"$1,512,416",47%,Empl 8,Cindie Pitman,United States,"Pineapple - Canned, Rings",4-4-2020,7-3-2021
+Blogpad,4,,441295,Ovis canadensis,"$4,562,300",57%,Empl 9,Garold Shellcross,United States,Cranberries - Frozen,11-2-2020,12-24-2020
+Thoughtsphere,2,,478283,Sagittarius serpentarius,"$3,582,581",20%,Empl 10,Morty La Grange,United States,"Sauce - Black Current, Dry Mix",4-24-2020,5-12-2021
+Jaxbean,5,Lost,430703,Nyctereutes procyonoides,"$3,729,328",37%,Empl 1,Chev Penman,United States,Oven Mitts 17 Inch,2-19-2020,5-27-2021
+Tavu,5,Won,400098,Laniaurius atrococcineus,"$1,529,126",70%,Empl 2,Jere Cottee,United States,Sambuca - Ramazzotti,6-30-2020,7-9-2020
+Thoughtblab,1,,480291,Connochaetus taurinus,"$4,929,936",63%,Empl 3,Demetria Freen,United States,Cheese - Brie Roitelet,1-10-2021,3-4-2021
+Zoomcast,5,Won,415271,Dasyurus maculatus,"$79,059",4%,Empl 4,Cortney De Wolfe,United States,Pork - Bacon Cooked Slcd,4-6-2020,6-14-2020
+Quamba,3,,458615,Limosa haemastica,"$599,337",3%,Empl 5,Kenton Pollendine,United States,Lettuce - Sea / Sea Asparagus,4-11-2020,10-25-2020
+Camimbo,5,Lost,438187,Dicrostonyx groenlandicus,"$663,404",38%,Empl 6,Amby Impleton,United States,Anisette - Mcguiness,1-5-2021,5-25-2021
+Twimm,4,,489765,Actophilornis africanus,"$540,909",36%,Empl 7,Davidson Sterry,United States,Scallops - In Shell,4-21-2020,5-16-2020
+Linkbuzz,5,Won,436604,Myotis lucifugus,"$1,316,560",74%,Empl 8,Cindie Pitman,United States,Banana,1-28-2021,2-7-2021
+Meevee,5,Won,439836,Semnopithecus entellus,"$2,723,224",16%,Empl 9,Garold Shellcross,United States,Goat - Leg,12-3-2020,5-29-2021
+Fatz,4,,474125,Panthera pardus,"$3,852,829",30%,Empl 10,Morty La Grange,United States,Buffalo - Tenderloin,6-21-2021,9-19-2021
+Skipstorm,5,Lost,402483,Panthera pardus,"$3,799,513",16%,Empl 1,Chev Penman,United States,Shallots,1-31-2020,2-9-2021
+Npath,2,,406140,Mephitis mephitis,"$3,830,795",64%,Empl 2,Jere Cottee,United States,Onions - Cippolini,6-2-2020,6-22-2020
+Brainverse,3,,416067,Orcinus orca,"$137,524",74%,Empl 3,Demetria Freen,United States,Soup - Campbells Beef Strogonoff,8-17-2020,6-27-2021
+Kare,5,Won,486445,Lamprotornis nitens,"$1,680,149",53%,Empl 4,Cortney De Wolfe,United States,"Yogurt - Strawberry, 175 Gr",5-5-2020,8-6-2021
+Teklist,1,,499016,Vulpes chama,"$684,331",2%,Empl 5,Kenton Pollendine,United States,Ice Cream - Life Savers,7-29-2020,7-27-2021
+Eazzy,3,,408732,Equus hemionus,"$3,951,699",8%,Empl 6,Amby Impleton,United States,Bread - Olive,8-15-2020,11-22-2020
+Latz,1,,487388,Zalophus californicus,"$526,072",30%,Empl 7,Davidson Sterry,United States,Water - Evian 355 Ml,2-19-2020,3-2-2020
+Livetube,5,Lost,465913,Psophia viridis,"$179,099",50%,Empl 8,Cindie Pitman,United States,"Cheese - Woolwich Goat, Log",10-20-2020,8-5-2021
+Eimbee,1,,430120,Corvus albus,"$10,021",40%,Empl 9,Garold Shellcross,United States,Garlic,6-29-2021,10-19-2021
+Dabshots,1,,444035,Alcelaphus buselaphus caama,"$1,813,535",30%,Empl 10,Morty La Grange,United States,Rice Wine - Aji Mirin,2-23-2020,9-2-2020
+Jaloo,4,,491292,Varanus albigularis,"$2,895,623",26%,Empl 1,Chev Penman,United States,Cheese - Grie Des Champ,1-4-2021,9-5-2021
+Trilia,5,Won,472126,Phalaropus fulicarius,"$1,393,842",73%,Empl 2,Jere Cottee,United States,Tea - Green,2-12-2020,11-19-2020
+Avaveo,2,,478093,Varanus salvator,"$1,439,791",69%,Empl 3,Demetria Freen,United States,Wine - Zonnebloem Pinotage,4-10-2020,12-22-2020
+Jabberbean,1,,431844,Actophilornis africanus,"$4,731,466",47%,Empl 4,Cortney De Wolfe,United States,Bread - Ciabatta Buns,5-1-2020,7-18-2020
+Zoombeat,3,,424483,Upupa epops,"$2,429,323",73%,Empl 5,Kenton Pollendine,United States,Pepper - Red Thai,4-12-2020,6-13-2020
+Centidel,2,,459820,Coluber constrictor foxii,"$2,834,576",51%,Empl 6,Amby Impleton,United States,Island Oasis - Magarita Mix,5-11-2020,8-28-2020
+Zoomcast,1,,450346,Uraeginthus granatina,"$4,578,378",74%,Empl 7,Davidson Sterry,United States,Wine - Zonnebloem Pinotage,2-28-2021,8-13-2021
+Twinder,3,,454269,Aquila chrysaetos,"$1,857,754",9%,Empl 8,Cindie Pitman,United States,Sour Puss Sour Apple,7-4-2021,7-26-2021
+LiveZ,5,Lost,436520,Tragelaphus strepsiceros,"$1,178,494",40%,Empl 9,Garold Shellcross,United States,Chocolate - Chips Compound,10-14-2020,2-7-2021
+Wordware,1,,456795,Canis mesomelas,"$1,649,018",63%,Empl 10,Morty La Grange,United States,Pork - Bacon Cooked Slcd,7-25-2020,11-13-2020
+Wordpedia,2,,433417,Alopex lagopus,"$59,396",32%,Empl 1,Chev Penman,United States,Lotus Root,4-20-2020,8-29-2020
+Jaxspan,4,,415305,Eumetopias jubatus,"$4,689,942",15%,Empl 2,Jere Cottee,United States,Pineapple - Golden,6-3-2020,11-15-2020
+Linklinks,5,Lost,448568,Damaliscus lunatus,"$3,537,497",71%,Empl 3,Demetria Freen,United States,Beef - Tenderloin - Aa,4-21-2020,12-5-2020
+Npath,1,,471371,Geochelone radiata,"$437,780",55%,Empl 4,Cortney De Wolfe,United States,Cheese Cheddar Processed,6-29-2020,1-9-2021
+Thoughtbridge,4,,405729,Raphicerus campestris,"$4,763,300",15%,Empl 5,Kenton Pollendine,United States,Beef - Montreal Smoked Brisket,6-23-2020,4-21-2021
+Jaxnation,2,,442296,Anas bahamensis,"$2,140,274",58%,Empl 6,Amby Impleton,United States,Wine - Toasted Head,10-21-2020,3-1-2021
+Meeveo,5,Lost,439610,Pycnonotus nigricans,"$4,451,485",49%,Empl 7,Davidson Sterry,United States,Sloe Gin - Mcguinness,8-11-2021,10-28-2021
